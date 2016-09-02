@@ -1,4 +1,4 @@
-# Pasifik Telekom API Python
+# Pasifik Panel API Python
 
 This library package provides a variety systems, the simplest way to integrate Pasifik services with your system.
 
