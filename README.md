@@ -4,7 +4,8 @@ This library package provides a variety systems, the simplest way to integrate P
 
 ## Requirements
 `Python>=2.7` version.
-Download and install [http://python.org](http://python.org)
+
+Download and install [https://python.org/downloads/](https://python.org/downloads/).
 
 ## Installation
 Download source code.
@@ -24,7 +25,7 @@ obj = PasifikAPI(username, password, lang, DEBUG)
 ```
 ## Test Case
 
-Follow `test.py` TestCase class, for test just uncomment the following methods and replace it with requirement parameters.
+Follow `test.py` TestCase class and replace it with requirement parameters, for test just uncomment the following methods in `main.py`.
 
 ```python
 test = TestCase()
